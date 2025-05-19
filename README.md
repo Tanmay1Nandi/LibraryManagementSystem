@@ -1,5 +1,4 @@
-Python Mid-Semester Project
-===========================
+
 
 Library Management System (LMS)
 -------------------------------
